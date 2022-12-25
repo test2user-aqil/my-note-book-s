@@ -22,3 +22,20 @@ Mexaniki hərəkətin növləri:
 - **Maddi nöqtə** - verilmiş şəraitdə ölçüləri nəzərə alınmayacaq dərəcədə kiçik olan cisimdir.
 - Maddi nöqtənin hərəkət zamanı cızdığı xətt **trayektoriya** adlanır.
 - Trayektoriyanın ununluğu **yol**dur.
+- Trayektoriya formasına görə *düzxətli* və *əyrixətli* olur.
+
+### Yol
+
+**Yol** - $s$ və ya $l$ ilə işarə olunur. $s [ 1m ]$-dir. Xətkeş və ya ölçü lenti ilə ölçülür, *skalyardır.*
+
+- Yalnız ədədi qiyməti olub, istiqaməti olmayan kəmiyyətlərə **skalyar kəmiyyətlər** deyilir.
+
+### Yerdəyişmə
+
+**Yerdəyişmə** - cismin başlanğıc vəziyyəti ilə son vəziyyətini birləşdirən istiqamətlənmiş düz xətdir. $\vec s$ kimi işarə olunur. $\vec s [1m]$-dir, *vektorialdır*, xətkeş və ya ölçü lenti ilə ölçülür.
+
+- Həm ədədi qiyməti, həm də istiqaməti olan kəmiyyətlərə **vektorial kəmiyyətlər** deyilir.
+
+1. *Düzxətli trayektoriyada* yol və yerdəyişmə bərabərdir: $s = \vec s$
+2. *Əyrixətli trayektoriyada* yol yerdəyişmədən böyük olur: $s > \vec s$
+3. Cisim hərəkət zamanı hərəkətə başladığı nöqtəyə qayıdarsa, yerdəyişmə $0$-a bərabər olur: $\vec s = 0$
