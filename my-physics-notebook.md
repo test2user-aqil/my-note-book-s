@@ -39,3 +39,19 @@ Mexaniki hərəkətin növləri:
 1. *Düzxətli trayektoriyada* yol və yerdəyişmə bərabərdir: $s = \vec s$
 2. *Əyrixətli trayektoriyada* yol yerdəyişmədən böyük olur: $s > \vec s$
 3. Cisim hərəkət zamanı hərəkətə başladığı nöqtəyə qayıdarsa, yerdəyişmə $0$-a bərabər olur: $\vec s = 0$
+
+- **Vektor** - istiqamətlənmiş düz xətdir. $\vec a$ və ya $\vec {AB}$
+
+1. Vektorun istiqaməti ədəd oxu ilə *eyni* istiqamətdədirsə, proyeksiya *müsbət* alınır: 
+$$a_x = x - x_0$$
+2. Vektorun istiqaməti ədəd oxuna *əksdirsə*, proyeksiya *mənfi* alınır:
+$$a_x = x_0 - x$$
+3. Vektor ədəd oxuna *paraleldirsə*, proyeksiyası *özünə bərabər* olur.
+4. Vekror ədəd oxuna *perpendikulyardırsa*, proyeksiyası *$0$-a bərabər* olur.
+
+#### Yerdəyişmə vektorunun proyeksiyasının qurulaması
+$$\{s_x = x - x_0, s_y = y - y_0} $$
+
+$$ \vec{s^2} = {s_x}^2+ {s_y}^2 \rightarrow \vec{s} = \sqrt{{s_x}^2 + {s_y}^2} $$
+
+$$ \vec{s} = \sqrt{(x - x_0)^2 + (y - y_0)^2} $$
