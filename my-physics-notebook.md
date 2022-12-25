@@ -47,7 +47,7 @@ $$a_x = x - x_0$$
 2. Vektorun istiqaməti ədəd oxuna *əksdirsə*, proyeksiya *mənfi* alınır:
 $$a_x = x_0 - x$$
 3. Vektor ədəd oxuna *paraleldirsə*, proyeksiyası *özünə bərabər* olur.
-4. Vekror ədəd oxuna *perpendikulyardırsa*, proyeksiyası *$0$-a bərabər* olur.
+4. Vekror ədəd oxuna *perpendikulyardırsa*, proyeksiyası $0$-a bərabər olur.
 
 #### Yerdəyişmə vektorunun proyeksiyasının qurulaması
 $$\{s_x = x - x_0, s_y = y - y_0} $$
