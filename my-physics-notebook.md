@@ -50,8 +50,15 @@ $$a_x = x_0 - x$$
 4. Vekror ədəd oxuna *perpendikulyardırsa*, proyeksiyası $0$-a bərabər olur.
 
 #### Yerdəyişmə vektorunun proyeksiyasının qurulaması
-$$\{s_x = x - x_0, s_y = y - y_0} $$
+$$\{s_x = x - x_0 \quad s_y = y - y_0} $$
 
 $$ \vec{s^2} = {s_x}^2+ {s_y}^2 \rightarrow \vec{s} = \sqrt{{s_x}^2 + {s_y}^2} $$
 
 $$ \vec{s} = \sqrt{(x - x_0)^2 + (y - y_0)^2} $$
+
+### Sürət
+**Sürət** - vahid zamanda gedilən yoldur. *Spidometrlə* ölçülür. Spidometr yoxdursa, sürəti xətkeş və saniyəölçənlə ölçürlər. *Vektorialdır*.
+$$\vec v = \frac{\vec{s}}{t} \quad ,\quad\vec v = \frac{s}{t} \quad [ 1 \frac{m}{san} ]$$
+
+- Cisim bərabər zamanda bərabər yollar (və ya yerdəyişmələr) qət edərsə, buna **bərabərsürətli** hərəkət deyilir.
+$$\vec{v} = const$$
